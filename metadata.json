@@ -1,0 +1,6 @@
+{
+  "name": "WorkPulse - Enterprise Employee & Task Management",
+  "description": "Enterprise-grade employee and task management system with strict role-based access control, manager team isolation, audit logging, and real-time analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
